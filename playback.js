@@ -13,6 +13,6 @@ const PLAYBACK_DATA = {
     playbackTitle: "Chaining Processes with Unix Pipes",
     branchId: "e6f79ad2-9a4a-4f55-a216-9694cecd619f",
     estimatedReadTime: 16,
-    aiApiUrl: "storyteller-ai-proxy.markm208.workers.dev",
+    aiApiUrl: "https://storyteller-ai-proxy.markm208.workers.dev/",
     aiEnabled: true
 };
